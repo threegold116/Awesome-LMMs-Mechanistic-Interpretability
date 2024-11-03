@@ -25,6 +25,6 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 + **Information Storage and Transfer** [Understanding Information Storage and Transfer in Multi-modal Large Language Models](https://arxiv.org/abs/2406.04236) (June. 06, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04236)
-  [![Star](https://img.shields.io/github/stars/clemneo/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
+  [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
 
 
