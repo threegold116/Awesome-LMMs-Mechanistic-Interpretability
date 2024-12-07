@@ -16,7 +16,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 + **What Do VLMs NOTICE?** [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320) (Oct. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16320)
-  [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)](https://anonymous.4open.science/r/NOTICE-ARR-Submission/README.md)
+  [![Star](https://img.shields.io/github/stars/wrudman/NOTICE.svg?style=social&label=Star)](https://anonymous.4open.science/r/NOTICE-ARR-Submission/README.md)
 
 + **LLaVA-Intrepret** [Towards Interpreting Visual Information Processing in Vision-Language Models](https://arxiv.org/abs/2410.07149) (Oct. 09, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03631)
