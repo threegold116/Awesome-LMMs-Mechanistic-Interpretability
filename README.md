@@ -3,6 +3,8 @@ All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
 
 ### Blog:
+[Are SAE features from the Base Model still meaningful to LLaVA?](https://www.lesswrong.com/posts/8JTi7N3nQmjoRRuMD/are-sae-features-from-the-base-model-still-meaningful-to-1) (Dec. 6, 2024)
+
 [Bridging the VLM and mech interp communities for multimodal interpretability](https://www.lesswrong.com/posts/aa5fzGr8JA3pqvhYC/bridging-the-vlm-and-mech-interp-communities-for-multimodal) (Oct. 28, 2024)
 
 [Laying the Foundations for Vision and Multimodal Mechanistic Interpretability & Open Problems](https://www.lesswrong.com/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic) (May. 14, 2024)
@@ -13,6 +15,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **SAE 4 LMM** [Large Multi-modal Models Can Interpret Features in Large Multi-modal Models](https://arxiv.org/abs/2411.14982) (Nov. 22, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14982)
   [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-sae)
+
++ **LLaVA in VQA** [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/abs/2411.10950) (Nov. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10950)
+  [![Star](https://img.shields.io/github/stars/zepingyu0512/llava-mechanism.svg?style=social&label=Star)](https://github.com/zepingyu0512/llava-mechanism)
 
 + **What Do VLMs NOTICE?** [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320) (Oct. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16320)
