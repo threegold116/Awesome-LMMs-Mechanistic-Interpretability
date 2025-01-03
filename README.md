@@ -39,6 +39,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03118)
   [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
 
++ **Multi-Modal Neurons** [Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers](https://arxiv.org/abs/2311.07470) (Jun. 11, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07470)
+  [![Star](https://img.shields.io/github/stars/opanhw/MM_Neurons.svg?style=social&label=Star)](https://github.com/opanhw/MM_Neurons)
+
 + **Information Storage and Transfer** [Understanding Information Storage and Transfer in Multi-modal Large Language Models](https://arxiv.org/abs/2406.04236) (June. 06, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04236)
   [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
@@ -46,4 +50,6 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Causal Tracing Tool 4 BLIP** [Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP](https://arxiv.org/abs/2308.14179) (Aug. 27, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
+
+
 
