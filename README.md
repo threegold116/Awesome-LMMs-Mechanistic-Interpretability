@@ -31,12 +31,20 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10950)
   [![Star](https://img.shields.io/github/stars/zepingyu0512/llava-mechanism.svg?style=social&label=Star)](https://github.com/zepingyu0512/llava-mechanism)
 
++ **Modality-Specific Neurons in MLLMs** [MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models](https://arxiv.org/abs/2410.04819) (Oct. 7, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04819)
+  [![Star](https://img.shields.io/github/stars/huang-kc/MINER.svg?style=social&label=Star)](https://github.com/huang-kc/MINER)
+
++ **Implicit Multimodal Alignment** [Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs](https://arxiv.org/abs/2405.16700) (Oct. 5, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16700)
+  [![Star](https://img.shields.io/github/stars/mshukor/ima-lmms.svg?style=social&label=Star)](https://github.com/mshukor/ima-lmms)
+
 + **What Do VLMs NOTICE?** [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320) (Oct. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16320)
   [![Star](https://img.shields.io/github/stars/wrudman/NOTICE.svg?style=social&label=Star)](https://anonymous.4open.science/r/NOTICE-ARR-Submission/README.md)
 
 + **LLaVA-Intrepret** [Towards Interpreting Visual Information Processing in Vision-Language Models](https://arxiv.org/abs/2410.07149) (Oct. 09, 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03631)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07149)
   [![Star](https://img.shields.io/github/stars/clemneo/llava-interp.svg?style=social&label=Star)](https://github.com/clemneo/llava-interp)
 
 + **LVLM-Intrepret** [LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models](https://arxiv.org/abs/2404.03118) (June. 24, 2024)
@@ -50,6 +58,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Information Storage and Transfer** [Understanding Information Storage and Transfer in Multi-modal Large Language Models](https://arxiv.org/abs/2406.04236) (June. 06, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04236)
   [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
+
++ **Multimodal In-Context Learning** [What Makes Multimodal In-Context Learning Work?](https://arxiv.org/abs/2404.15736) (April. 25, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15736)
+  [![Star](https://img.shields.io/github/stars/folbaeni/multimodal-icl.svg?style=social&label=Star)](https://github.com/folbaeni/multimodal-icl)
 
 + **Causal Tracing Tool 4 BLIP** [Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP](https://arxiv.org/abs/2308.14179) (Aug. 27, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
