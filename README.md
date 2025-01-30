@@ -63,6 +63,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15736)
   [![Star](https://img.shields.io/github/stars/folbaeni/multimodal-icl.svg?style=social&label=Star)](https://github.com/folbaeni/multimodal-icl)
 
++ **Text-Based Decomposition** [Interpreting CLIP's Image Representation via Text-Based Decomposition](https://arxiv.org/abs/2310.05916) (Mar. 29, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05916)
+  [![Star](https://img.shields.io/github/stars/yossigandelsman/clip_text_span.svg?style=social&label=Star)](https://github.com/yossigandelsman/clip_text_span)
+
 + **Causal Tracing Tool 4 BLIP** [Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP](https://arxiv.org/abs/2308.14179) (Aug. 27, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
