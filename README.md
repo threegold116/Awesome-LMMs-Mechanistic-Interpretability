@@ -3,11 +3,11 @@ All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
 
 ### Blog:
-[Are SAE features from the Base Model still meaningful to LLaVA?](https://www.lesswrong.com/posts/8JTi7N3nQmjoRRuMD/are-sae-features-from-the-base-model-still-meaningful-to-1) (Dec. 6, 2024)
++ [Are SAE features from the Base Model still meaningful to LLaVA?](https://www.lesswrong.com/posts/8JTi7N3nQmjoRRuMD/are-sae-features-from-the-base-model-still-meaningful-to-1) (Dec. 6, 2024)
 
-[Bridging the VLM and mech interp communities for multimodal interpretability](https://www.lesswrong.com/posts/aa5fzGr8JA3pqvhYC/bridging-the-vlm-and-mech-interp-communities-for-multimodal) (Oct. 28, 2024)
++ [Bridging the VLM and mech interp communities for multimodal interpretability](https://www.lesswrong.com/posts/aa5fzGr8JA3pqvhYC/bridging-the-vlm-and-mech-interp-communities-for-multimodal) (Oct. 28, 2024)
 
-[Laying the Foundations for Vision and Multimodal Mechanistic Interpretability & Open Problems](https://www.lesswrong.com/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic) (May. 14, 2024)
++ [Laying the Foundations for Vision and Multimodal Mechanistic Interpretability & Open Problems](https://www.lesswrong.com/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic) (May. 14, 2024)
 
 ### Surveys:
 + [A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models](https://arxiv.org/abs/2502.17516) (Feb. 22, 2025)
