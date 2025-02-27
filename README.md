@@ -45,7 +45,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Probing MLLMs** [Probing Multimodal Large Language Models for Global and Local Semantic Representations](https://arxiv.org/abs/2402.17304) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17304)
 
-+ **Probing Hallucination** [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/abs/2210.07688) (Feb. 10, 2023)
++ **Probing Hallucination in VIT** [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/abs/2210.07688) (Feb. 10, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.07688)
 
 + **Probing VIT** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
@@ -61,6 +61,14 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
   
 ### Steering Vector
++ **Concept Sliders** [Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-73661-2_10) (Nov. 10, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://link.springer.com/chapter/10.1007/978-3-031-73661-2_10)
+  [![Star](https://img.shields.io/github/stars/CompVis/attribute-conl.svg?style=social&label=Star)](https://sliders.baulab.info/)
+  
++ **Attribute Control** [Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions](https://arxiv.org/abs/2403.17064) (Mar. 24, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17064)
+  [![Star](https://img.shields.io/github/stars/CompVis/attribute-control.svg?style=social&label=Star)](https://github.com/CompVis/attribute-control)
+  
 ### Representation
 + **Fine-tuning Representation Shift** [Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering](https://arxiv.org/abs/2501.03012) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03012)
@@ -69,6 +77,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **LMM Concept Explainability** [A Concept-Based Explainability Framework for Large Multimodal Models](https://arxiv.org/abs/2406.08074) (Nov. 30, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08074)
   [![Star](https://img.shields.io/github/stars/mshukor/xl-vlms.svg?style=social&label=Star)](https://github.com/mshukor/xl-vlms)
+
++ **Decomposing and Interpreting Image Representations** [Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP](https://arxiv.org/abs/2406.01583) (Oct. 21, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01583)
+  [![Star](https://img.shields.io/github/stars/SriramB-98/vit-decompose.svg?style=social&label=Star)](https://github.com/SriramB-98/vit-decompose)
 
 + **Implicit Multimodal Alignment** [Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs](https://arxiv.org/abs/2405.16700) (Oct. 5, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16700)
