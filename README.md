@@ -6,9 +6,13 @@ If you have found some new and interesting papers, I would appreciate it if you 
 - [Surveys](#Surveys)
 - [Blog](#Blog)
 - [Papers](#Papers)
+  - [Sparse Autoencoder](#Sparse-Autoencoder)
+  - [Neuron Analysis](#Neuron-Analysis)
+  - [Logit Lens](#Logit-Lens)
+  - [Causal Tracing](#Causal-Tracing)
   - [Linear Probing](#Linear-Probing)
-  - [Findings on circuits](#findings-on-circuits)
-
+  - [Steering Vector](#Steering-Vector)
+  - [Representation](#Representation)
 ## Surveys:
 ([Back to Table of Contents](#table-of-contents))
 + [A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models](https://arxiv.org/abs/2502.17516) (Feb. 22, 2025)
@@ -30,7 +34,12 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 ## Papers:
 ([Back to Table of Contents](#table-of-contents))
+### Sparse Autoencoder
 ### Linear Probing
+### Logit Lens
+### Causal Tracing
+### Steering Vector
+### Representation
 + **Fine-tuning Representation Shift** [Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering](https://arxiv.org/abs/2501.03012) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03012)
   [![Star](https://img.shields.io/github/stars/mshukor/xl-vlms.svg?style=social&label=Star)](https://github.com/mshukor/xl-vlms)
