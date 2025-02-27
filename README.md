@@ -40,8 +40,17 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **SAE 4 LMM** [Large Multi-modal Models Can Interpret Features in Large Multi-modal Models](https://arxiv.org/abs/2411.14982) (Nov. 22, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14982)
   [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-sae)
+  
 ### Linear Probing
++ **Probing MLLMs** [Probing Multimodal Large Language Models for Global and Local Semantic Representations](https://arxiv.org/abs/2402.17304) (Jan. 6, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17304)
 
++ **Probing Hallucination** [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/abs/2210.07688) (Feb. 10, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.07688)
+
++ **Probing VIT** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
+  
 ### Logit Lens
 + **Attention Lens** [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://www.arxiv.org/abs/2411.16724) (Nov. 23, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
