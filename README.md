@@ -14,6 +14,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   - [Steering Vector](#Steering-Vector)
   - [Representation](#Representation)
   - [Tool](#Tool)
+
 ## Surveys:
 ([Back to Table of Contents](#table-of-contents))
 + [A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models](https://arxiv.org/abs/2502.17516) (Feb. 22, 2025)
