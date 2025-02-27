@@ -52,10 +52,21 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
   
 ### Logit Lens
++ **Beyond Logit Lens** [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187) (Feb. 19, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19187)
+  
 + **Attention Lens** [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://www.arxiv.org/abs/2411.16724) (Nov. 23, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
   
 ### Causal Tracing
++ **LLaVA in VQA** [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/abs/2411.10950) (Nov. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10950)
+  [![Star](https://img.shields.io/github/stars/zepingyu0512/llava-mechanism.svg?style=social&label=Star)](https://github.com/zepingyu0512/llava-mechanism)
+
++ **Information Storage and Transfer** [Understanding Information Storage and Transfer in Multi-modal Large Language Models](https://arxiv.org/abs/2406.04236) (June. 06, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04236)
+  [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
+  
 + **Causal Tracing Tool 4 BLIP** [Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP](https://arxiv.org/abs/2308.14179) (Aug. 27, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
@@ -95,10 +106,6 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07470)
   [![Star](https://img.shields.io/github/stars/opanhw/MM_Neurons.svg?style=social&label=Star)](https://github.com/opanhw/MM_Neurons)
 
-+ **Information Storage and Transfer** [Understanding Information Storage and Transfer in Multi-modal Large Language Models](https://arxiv.org/abs/2406.04236) (June. 06, 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04236)
-  [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
-
 + **Multimodal In-Context Learning** [What Makes Multimodal In-Context Learning Work?](https://arxiv.org/abs/2404.15736) (April. 25, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15736)
   [![Star](https://img.shields.io/github/stars/folbaeni/multimodal-icl.svg?style=social&label=Star)](https://github.com/folbaeni/multimodal-icl)
@@ -106,10 +113,6 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Modality-Specific Neurons in MLLMs** [MINER: Mining the Underlying Pattern of Modality-Specific Neurons in Multimodal Large Language Models](https://arxiv.org/abs/2410.04819) (Oct. 7, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04819)
   [![Star](https://img.shields.io/github/stars/huang-kc/MINER.svg?style=social&label=Star)](https://github.com/huang-kc/MINER)
-
-+ **LLaVA in VQA** [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/abs/2411.10950) (Nov. 17, 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10950)
-  [![Star](https://img.shields.io/github/stars/zepingyu0512/llava-mechanism.svg?style=social&label=Star)](https://github.com/zepingyu0512/llava-mechanism)
 
 + **What Do VLMs NOTICE?** [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320) (Oct. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16320)
