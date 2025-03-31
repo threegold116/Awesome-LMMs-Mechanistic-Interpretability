@@ -1,7 +1,7 @@
 # Awesome LMMs Mechanistic Interpretability
 All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs)
+
 ## Table of Contents
 - [Surveys](#Surveys)
 - [Blog](#Blog)
