@@ -1,7 +1,7 @@
 # Awesome LMMs Mechanistic Interpretability
 All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=threegold116.Awesome-Omni-MLLMs)
 ## Table of Contents
 - [Surveys](#Surveys)
 - [Blog](#Blog)
@@ -92,6 +92,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Representation
++ **Interpreting Image as combinations of Language Embeddings** [LangBridge: Interpreting Image as a Combination of Language Embeddings](https://arxiv.org/pdf/2503.19404) (Mar. 25, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03012)
+  [![Star](https://img.shields.io/github/stars/JiaqiLiao77/LangBridge.svg?style=social&label=Star)](https://github.com/JiaqiLiao77/LangBridge)
+  
 + **Fine-tuning Representation Shift** [Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering](https://arxiv.org/abs/2501.03012) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03012)
   [![Star](https://img.shields.io/github/stars/mshukor/xl-vlms.svg?style=social&label=Star)](https://github.com/mshukor/xl-vlms)
